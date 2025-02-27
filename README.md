@@ -1,7 +1,9 @@
+## Laptop screen
 ![Screenshot 2025-02-27 222802](https://github.com/user-attachments/assets/8db52bec-4697-48e9-80c1-ebd4079f68b7)
-![Screenshot 2025-02-27 222909](https://github.com/user-attachments/assets/fac2cc85-d15d-43b8-865c-ae754f407a13)
-![Screenshot 2025-02-27 223020](https://github.com/user-attachments/assets/3dc4be74-302d-4750-9c38-74b969d97fc9)
 
+## mobile screen
+![Screenshot 2025-02-27 223603](https://github.com/user-attachments/assets/99eb6136-5a52-44b7-82aa-002af7a77068)
+![Screenshot 2025-02-27 223625](https://github.com/user-attachments/assets/34fca05e-5b6e-4988-951e-ea5d7b7f3707)
 
 
 ## Getting Started
